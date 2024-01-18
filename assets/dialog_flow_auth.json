@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mentalhchatbot-qqiv",
+  "private_key_id": "c5f6a99a3920e6d930e4bf33018f02b27bfcaab7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTekhnITraGpkI\ng8wolaaI3jpTMc5B6R2h5+Vuk1dP85yEz/oF1LPtYDYjALPMA+1bItpPbhp5kqq+\nZ8i8OFiwXzoQjxLyxnqBfCvbKbHGFvf0BMedU9G4NBwmQdbL07HcPmYqBqZvFJAo\nRPED5N3TzVmIgNKU5hhuF2kq3s/MGOeSGl4FlGpTU1QXfJCLhp6gKKZi0xVmhsWM\n0UDBxmIy+mJxg1HgCRYiQKBK4ukwZBQ9/PdWVhV2i8PC91/o0w4CyxaId3Xh5yzg\nQwl+WtcJYYbdj8z4BznHNtEpAu4sWCe6bMuV0GSUjOSVEucgPZHI8cFJWs8cTus1\n4gGfzif5AgMBAAECggEAB1Kx4C8Z+0UJVs8mlthRf+fbCREGzyaKcmTvs1UtJ3rv\nCXhDT8FPWujlX0kUZHvIcDdTlFChD2rdQB2qrc/1dXKREUvtcrEw2ZenHNed7Hps\n/wiyucj097rcr/iieBYPtaJCk/EnGApzGxDLT/hwHGmMuda9vieLzIGslvSf6GA7\n6WaWVxV1NaxY57VkM7H4xaTCLJ+iaiqwi/BgRDn9YZwisuFTDVOF97XWab453I1g\nH+6MnVfNqm6BGjeJWGrO0bSRVosCX9L1T+kWFg3RBhVgML7j2CGyApqdV63LZKrc\nuI3Qf9oIp7iV08z9DbTdKvP4bZv02dFprkO7xp78oQKBgQDDk54uuEDf4SDloUmK\nHscWDJbGvGJn42qzK31gFgdVVw6Qqxayl4d512rExh1aJGPBoeoII+shzw72mnwK\n4DYwa9NchxCQo6gzHc4iFSQ/kbTc1B4GPIYV0gb9DBGEUNIsbvrzNTlKmBp+fzTz\n1n13atha1Sq12hKnUwT2Bwg9aQKBgQDBCnZOIDUX79ek9BTdFC0FHaqMw8cwJz0i\nW+ffSUFpXOSyDTjifeUoyq78kmPErOoQ3Bg9nbmjGd/rF8snaSnlUVFI6fOi15l9\nfypjM33liDPKnWjXMRF2YGY1/YFJ4fQztIA3oRMKMYcamCcpLcp/MWLdQOMHSBNH\ntQwLlqr0EQKBgQCXYueZkGQfJ9tYBC2xbTt7tMjtEps1gVJxV+OXgdWxWE7c6qIK\nIcLrLDToFdZYlTxmgNdv76WtKOKTPmdv37fyaTRVNfM7koK69oI93ZGOZ1HRcZvA\nBg9gSo/ARhw1CH53iHxVz8gGFpDDg+HQMSIzUpAgV0rVMvUncdqwOidFqQKBgBfn\n58a9DlYsiZQP9hV6zih4CAruo9g+w79hilGIjOUzb87s/EJwPNTUZN86cciFcWct\nGoNm6Ppd1fETPUFgMKQJcfuJnXZpJMT53pHyaoDmYSOSYs1jcjoqrf25qy0vIkLU\n85vwAp+cipKsjQz4cr9VqlykEHlyX5DdxuQYgItBAoGATWvssHdQRDiIf1UV8/oR\ntQR/FKlLdQHFFMJI1/J/oHh9Dx5Ldio0gWM6Vj9xWOY07NlBxkO6s+ep/vEdCFgY\nOS0n/5lEDgSDQ1DkroYzIF90pQ+lY9gIcgmPbHand6Is4eXO6tn7iECJkCzOxBxN\nO7aOeNtn76+s/s34y6r89eE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mentalhchatbot@mentalhchatbot-qqiv.iam.gserviceaccount.com",
+  "client_id": "101413398658369252585",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mentalhchatbot%40mentalhchatbot-qqiv.iam.gserviceaccount.com"
+}
